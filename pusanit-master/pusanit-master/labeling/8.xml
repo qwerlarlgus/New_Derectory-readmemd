@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4강</folder>
+	<filename>8.png</filename>
+	<path>C:/Users/user/Documents/한성대(2020)/교안/4강/8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>510</width>
+		<height>463</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>76</ymin>
+			<xmax>459</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
