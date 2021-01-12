@@ -1,2 +1,2 @@
-# New_Derectory-readmemd
+# New_Derectory-READMEmd
 Polytech_Class
